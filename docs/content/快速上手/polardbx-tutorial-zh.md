@@ -5,7 +5,6 @@
 ### 准备教程所需要的组件
 我们假设你运行在一台MacOS或者Linux机器上，并且已经安装docker.
 
-
 #### 配置并启动容器
 
 配置 `docker-compose.yml`。

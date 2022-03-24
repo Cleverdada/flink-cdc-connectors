@@ -123,9 +123,8 @@ We can also visit [http://localhost:5601/](http://localhost:5601/) to see if Kib
     ```shell
     ./bin/start-cluster.sh
     ```
-
+   
    Then we can visit [http://localhost:8081/](http://localhost:8081/) to see if Flink is running normally.
-
 
 3. Use the following command to start a Flink SQL CLI:
     ```shell
