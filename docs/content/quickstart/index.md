@@ -6,6 +6,7 @@
 mysql-postgres-tutorial
 mongodb-tutorial
 oceanbase-tutorial
+polardbx-tutorial
 oracle-tutorial
 sqlserver-tutorial
 tidb-tutorial

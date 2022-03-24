@@ -5,6 +5,7 @@
 
 mysql-postgres-tutorial-zh
 mongodb-tutorial-zh
+polardbx-tutorial-zh
 oceanbase-tutorial-zh
 oracle-tutorial-zh
 sqlserver-tutorial-zh
