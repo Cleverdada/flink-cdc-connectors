@@ -115,10 +115,14 @@ VALUES (default, '2020-07-30 10:08:22', 'Jark', 50.50, 102, false),
 ```shell
 ./bin/start-cluster.sh
 ```
+<<<<<<< HEAD
 
 我们可以访问 [http://localhost:8081/](http://localhost:8081/) 看到Flink正常运行:
 
 ![Flink UI](/_static/fig/mysql-postgress-tutorial/flink-ui.png "Flink UI")
+=======
+我们可以访问 [http://localhost:8081/](http://localhost:8081/) 看到Flink已正常运行.
+>>>>>>> add index
 
 4. 启动Flink SQL CLI:
 ```shell

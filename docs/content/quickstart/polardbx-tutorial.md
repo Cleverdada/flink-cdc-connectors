@@ -123,10 +123,14 @@ We can also visit [http://localhost:5601/](http://localhost:5601/) to see if Kib
     ```shell
     ./bin/start-cluster.sh
     ```
+<<<<<<< HEAD
    
    Then we can visit [http://localhost:8081/](http://localhost:8081/) to see if Flink is running normally.
 
    ![Flink UI](/_static/fig/mysql-postgress-tutorial/flink-ui.png "Flink UI")
+=======
+   Then we can visit [http://localhost:8081/](http://localhost:8081/) to see if Flink is running normally.
+>>>>>>> add index
 
 
 3. Use the following command to start a Flink SQL CLI:
