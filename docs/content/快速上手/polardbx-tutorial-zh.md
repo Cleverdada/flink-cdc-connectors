@@ -120,7 +120,6 @@ VALUES (default, '2020-07-30 10:08:22', 'Jark', 50.50, 102, false),
 
 ![Flink UI](/_static/fig/mysql-postgress-tutorial/flink-ui.png "Flink UI")
 
-
 4. 启动Flink SQL CLI:
 ```shell
 ./bin/sql-client.sh
