@@ -5,9 +5,6 @@
 ### 准备教程所需要的组件
 我们假设你运行在一台MacOS或者Linux机器上，并且已经安装docker.
 
-### 准备教程所需要的组件
-我们假设你运行在一台MacOS或者Linux机器上，并且已安装了docker.
-
 #### 配置并启动容器
 
 配置 `docker-compose.yml`。
@@ -122,6 +119,7 @@ VALUES (default, '2020-07-30 10:08:22', 'Jark', 50.50, 102, false),
 我们可以访问 [http://localhost:8081/](http://localhost:8081/) 看到Flink正常运行:
 
 ![Flink UI](/_static/fig/mysql-postgress-tutorial/flink-ui.png "Flink UI")
+
 
 4. 启动Flink SQL CLI:
 ```shell
