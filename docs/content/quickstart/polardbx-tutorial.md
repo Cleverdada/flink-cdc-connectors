@@ -128,6 +128,7 @@ We can also visit [http://localhost:5601/](http://localhost:5601/) to see if Kib
 
    ![Flink UI](/_static/fig/mysql-postgress-tutorial/flink-ui.png "Flink UI")
 
+
 3. Use the following command to start a Flink SQL CLI:
     ```shell
     ./bin/sql-client.sh
