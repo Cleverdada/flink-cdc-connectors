@@ -5,8 +5,6 @@
 ### 准备教程所需要的组件
 我们假设你运行在一台MacOS或者Linux机器上，并且已经安装docker.
 
-本示例我们通过演示PolarDB-X借助Flink-CDC将数据导入至Elasticsearch来介绍PolarDB-X的增量订阅能力.如果对于PolarDB-X有兴趣，更多请前往:[PolarDB-X](https://github.com/ApsaraDB/galaxysql)
-
 
 #### 配置并启动容器
 
