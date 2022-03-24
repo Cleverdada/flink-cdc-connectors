@@ -127,6 +127,7 @@ We can also visit [http://localhost:5601/](http://localhost:5601/) to see if Kib
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
    
    Then we can visit [http://localhost:8081/](http://localhost:8081/) to see if Flink is running normally.
 
@@ -152,6 +153,9 @@ We can also visit [http://localhost:5601/](http://localhost:5601/) to see if Kib
 
    ![Flink UI](/_static/fig/mysql-postgress-tutorial/flink-ui.png "Flink UI")
 >>>>>>> add_polardbx_tutorial
+=======
+   Then we can visit [http://localhost:8081/](http://localhost:8081/) to see if Flink is running normally.
+>>>>>>> add index
 
 3. Use the following command to start a Flink SQL CLI:
     ```shell
