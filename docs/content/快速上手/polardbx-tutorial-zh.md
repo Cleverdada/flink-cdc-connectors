@@ -4,6 +4,12 @@
 
 ### 准备教程所需要的组件
 我们假设你运行在一台MacOS或者Linux机器上，并且已经安装docker.
+<<<<<<< HEAD
+=======
+
+本示例我们通过演示PolarDB-X借助Flink-CDC将数据导入至Elasticsearch来介绍PolarDB-X的增量订阅能力.如果对于PolarDB-X有兴趣，更多请前往:[PolarDB-X](https://github.com/ApsaraDB/galaxysql)
+
+>>>>>>> rebase
 
 #### 配置并启动容器
 
@@ -116,10 +122,15 @@ VALUES (default, '2020-07-30 10:08:22', 'Jark', 50.50, 102, false),
 ./bin/start-cluster.sh
 ```
 
+<<<<<<< HEAD
 我们可以访问 [http://localhost:8081/](http://localhost:8081/) 看到Flink正常运行:
 
 ![Flink UI](/_static/fig/mysql-postgress-tutorial/flink-ui.png "Flink UI")
 
+=======
+我们可以访问 [http://localhost:8081/](http://localhost:8081/) 看到Flink已正常运行.
+
+>>>>>>> rebase
 
 4. 启动Flink SQL CLI:
 ```shell
