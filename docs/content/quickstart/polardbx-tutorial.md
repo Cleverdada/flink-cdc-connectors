@@ -1,4 +1,4 @@
-# Streaming ETL for PolarDB-X with Flink CDC
+# Demo: PolarDB-X CDC to Elasticsearch
 
 This tutorial is to show how to quickly build streaming ETL for PolarDB-X with Flink CDC.
 
