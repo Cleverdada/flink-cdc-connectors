@@ -207,7 +207,7 @@ Flink SQL> INSERT INTO enriched_orders
 
 ### 修改监听表数据，查看增量数据变动
 
-在OceanBase中依次执行如下修改操作，每执行一步就刷新一次 Kibana，可以看到 Kibana 中显示的订单数据将实时更新。
+在PolarDB-X中依次执行如下修改操作，每执行一步就刷新一次 Kibana，可以看到 Kibana 中显示的订单数据将实时更新。
 
 ```sql
 INSERT INTO orders VALUES (default, '2020-07-30 15:22:00', 'Jark', 29.71, 104, false);
